@@ -9,6 +9,6 @@ Download Code And HighScore.txt file and run normally or just copy past and crea
 *credits* <br>
 Made by-
 
-Bilal Ahmed <br>
-Ahmed Nadir Shah <br>
-Syed Ashar Tahir <br>
+Leader :Bilal Ahmed 24K-0777<br>
+Ahmed Nadir Shah 24K-0609<br>
+Syed Ashar Tahir 24K-0582<br>
