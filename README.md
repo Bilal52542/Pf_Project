@@ -5,7 +5,7 @@ Welcome to Pixel Leap, an exciting platformer game where you must answer mathema
 ```bash
 gcc Project.c -o Project
 ```
-
+Download Code And HighScore.txt file and run normally or just copy past and create a new txt file
 *credits* <br>
 Made by-
 
