@@ -243,7 +243,7 @@ void actual_game(){
     int platform_counter=1,high_score,lifeline=0;
     int score=0,wrong_answers=0,user_answer;
     int choice,counter=0,found=0,found2=0,found3=0;
-    int points_per_question=10,streak=0;
+    int points_per_question=1,streak=0;
     char mychar='+';
     struct Question current_question = {0, 0, 0};//make current question num1,num2,answer=0
     struct Question next_question;
